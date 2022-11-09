@@ -1,3 +1,5 @@
+package com.stringcomparision;
+
 /*
 Method 2: Using equals() method
 In Java, string equals() method compares the two given strings based on the data / content of the string.

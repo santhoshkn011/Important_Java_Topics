@@ -1,3 +1,5 @@
+package com.stringcomparision;
+
 import java.text.Collator;
 
 /*

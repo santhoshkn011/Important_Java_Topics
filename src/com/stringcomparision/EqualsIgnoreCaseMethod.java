@@ -1,3 +1,5 @@
+package com.stringcomparision;
+
 /*
 Method 4: Using equalsIgnoreCase() method
 Java String equalsIgnoreCase() method is much similar to equals() method, except that case is ignored like in above example String object s4 compare to s3 then equals() method return false, but here in case of equalsIgnoreCase() it will return true.

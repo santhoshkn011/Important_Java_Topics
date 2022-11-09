@@ -1,3 +1,5 @@
+package com.stringcomparision;
+
 /*
 Method 3: Using compareTo() method
 In java Comparable interface compares values and returns an int, these int values may be less than, equal, or greater than.

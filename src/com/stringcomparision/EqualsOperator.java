@@ -1,3 +1,5 @@
+package com.stringcomparision;
+
 /*
 Method 1: using == operator
 Double equals operator is used to compare two or more than two objects,

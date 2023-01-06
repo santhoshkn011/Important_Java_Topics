@@ -5,7 +5,7 @@ public class PrintPrime {
         ArrayList <Integer> list = new ArrayList<>();
         int i = 0;
         int num = 0;
-        for (i = 1; i <= 100; i++) {
+        for (i = 10; i <= 100; i++) {
             int counter = 0;
             for (num = i; num >= 1; num--) {
                 if (i % num == 0) {
